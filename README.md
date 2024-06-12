@@ -1,2 +1,0 @@
-# webperpus
-web personal

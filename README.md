@@ -20,11 +20,9 @@
 <div class="dropdown-child">
 <a href="index.html">Homepage</a>
 <a href="Modul 1 nomor 1.html">Perpustakaan Perguruan Tinggi</a>
-<a href="modul 1 nomor 2.html">Audio dan Video</a>
-<a href="Modul 2. nomor 1.html">Formulir Anggota Perpustakaan</a>
-<a href="Modul 2 Nomor 2.html">Tabel Bahan Buku</a > 
-<a href="Modul 2 Nomor 2.html">Form Pemesanan Buku</a>
-<a href="Modul 2 Nomor 2.html">Form Perpanjangan Peminjaman Buku</a>
+<a href="Modul 2 nomor 1.html">Formulir Anggota Perpustakaan</a>
+<a href="Modul 7 no 2.html">kalkulator
+
 
 </div>
 </body>
@@ -35,7 +33,7 @@
 <hr></hr>
 <center><table border="l">
 <th><h3 style="color:red"> About this Website </h3></th>
-<tr>
+<tr>  
 <td>
 <p> Halo! Terima kasih telah mengunjungi website ini </p>
 <p style="text-align: justify;"> Website ini dibuat untuk memenuhi tugas pada mata kuliah Pemrograman Web Praktik dengan dosen pengampu Ibu Himma Dewiyana, S.T., M.Hum pada program studi S-1 Perpustakaan dan Sains Informasi, Fakultas Ilmu Budaya, Universitas Sumatera Utara </p>

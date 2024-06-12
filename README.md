@@ -1,0 +1,92 @@
+ <title>personal website elva sitanggang</title>
+<style type="text/css">body{background-color:blue;(135, 62, 75)}</style>
+<body>
+<script>
+            alert("SELAMAT DATANG DI WEB PRIBADI ELVA sitanggang");
+            function saya Hello(){
+                alert("Hello Winners!");
+            }
+        </script>
+<script>
+        console. log ( "Hallo Sahabat perpustakaan ") ;
+			</script>
+<script>
+        document.write("<h1>Hello  sahabat perpustakaan !</h1>");
+			</script>
+<style>.mainmenubtn{background-color:rgb(0, 255, 64);color:aqua;border:none;cursor:pointer;padding:20px;margin-top:20px}.mainmenubtn:hover{background-color:#fff}.dropdown{position:relative;display:inline-block}.dropdown-child{display:none;background-color:#fff;min-width:200px}.dropdown-child a{color:maroon;padding:20px;text-decoration:none;display:block}.dropdown:hover .dropdown-child{display:block}</style>
+<link rel="dns-prefetch" href="//www.suarasurabaya.net"></head>
+<div class="dropdown">
+<button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
+<div class="dropdown-child">
+<a href="index.html">Homepage</a>
+<a href="Modul 1 nomor 1.html">Perpustakaan Perguruan Tinggi</a>
+<a href="modul 1 nomor 2.html">Audio dan Video</a>
+<a href="Modul 2. nomor 1.html">Formulir Anggota Perpustakaan</a>
+<a href="Modul 2 Nomor 2.html">Tabel Bahan Buku</a > 
+<a href="Modul 2 Nomor 2.html">Form Pemesanan Buku</a>
+<a href="Modul 2 Nomor 2.html">Form Perpanjangan Peminjaman Buku</a>
+
+</div>
+</body>
+</html>
+</nav>
+<center><h1>WELCOME TO LIBRARIES </h1>
+<img src="perpustakaan kita.jpg" style="width:1340px;height:300px;" align="middle">
+<hr></hr>
+<center><table border="l">
+<th><h3 style="color:red"> About this Website </h3></th>
+<tr>
+<td>
+<p> Halo! Terima kasih telah mengunjungi website ini </p>
+<p style="text-align: justify;"> Website ini dibuat untuk memenuhi tugas pada mata kuliah Pemrograman Web Praktik dengan dosen pengampu Ibu Himma Dewiyana, S.T., M.Hum pada program studi S-1 Perpustakaan dan Sains Informasi, Fakultas Ilmu Budaya, Universitas Sumatera Utara </p>
+</td>
+</tr>
+</table></center>
+<footer style="text-align: center;">
+<p>Copyright &copy; elva sitanggang - 210709061</p>
+</footer>
+</body>
+</html
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman Login</title>
+    <script>
+        function login() {
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            var message = document.getElementById("message");
+
+            // Contoh ID dan Password yang valid
+            var validUsername = "user";
+            var validPassword = "password123";
+
+            if (username === "" || password === "") {
+                message.innerHTML = "Input tidak lengkap. Mohon masukkan username dan password.";
+                message.style.color = "red";
+            } else if (username === validUsername && password === validPassword) {
+                message.innerHTML = "Login sukses! Selamat datang " + username + ".";
+                message.style.color = "green";
+            } else {
+                message.innerHTML = "Login gagal. ID atau password salah.";
+                message.style.color = "red";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>Login</h2>
+    <form onsubmit="event.preventDefault(); login();">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+
+        <input type="submit" value="Login">
+    </form>
+    <p id="message"></p>
+</body>
+</html>

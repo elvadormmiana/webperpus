@@ -19,9 +19,9 @@
 <button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
 <div class="dropdown-child">
 <a href="index.html">Homepage</a>
-<a href="Modul 1 nomor 1.html">Perpustakaan Perguruan Tinggi</a>
-<a href="Modul 2 nomor 1.html">Formulir Anggota Perpustakaan</a>
-<a href="Modul 7 no 2.html">kalkulator
+<a href="modul1nomor1.html">Perpustakaan Perguruan Tinggi</a>
+<a href="modul2nomor 1.html">Formulir Anggota Perpustakaan</a>
+<a href="modul7no 2.html">kalkulator
 
 
 </div>

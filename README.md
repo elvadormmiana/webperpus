@@ -21,7 +21,7 @@
 <a href="index.html">Homepage</a>
 <a href="modul 1 nomor 1.html">Perpustakaan Perguruan Tinggi</a>
 <a href="modul 2 nomor 1.html">Formulir Anggota Perpustakaan</a>
-<a href="modul7no 2.html">kalkulator
+<a href="modul 7 no 2.html">kalkulator
 
 
 </div>
